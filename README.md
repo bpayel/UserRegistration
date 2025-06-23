@@ -24,4 +24,25 @@ This is a small web application where the user Registration is demonstrated. Sin
 
 - Bootstrap
 
+## Home Page
+
+![image](https://github.com/user-attachments/assets/fc29d06c-eadd-48a5-b988-1fb8f8e36ef9)
+
+## Register Page
+
 ![image](https://github.com/user-attachments/assets/9ef011bc-6063-48cd-9c95-dee5ccbd2a97)
+
+## Login Page
+
+![image](https://github.com/user-attachments/assets/a4f9ab5c-d847-4eb0-8a73-5aafe7917a0d)
+
+## profile Page
+
+![image](https://github.com/user-attachments/assets/46e98ecd-89e8-4b86-b1c1-c8eb2e408c68)
+
+## Contact Page
+
+![image](https://github.com/user-attachments/assets/39e74ffe-ef55-4d39-a5ac-cdc62cd27ad4)
+
+
+
