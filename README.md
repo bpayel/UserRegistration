@@ -23,3 +23,5 @@ This is a small web application where the user Registration is demonstrated. Sin
 ## Frontend Technologies
 
 - Bootstrap
+
+![image](https://github.com/user-attachments/assets/9ef011bc-6063-48cd-9c95-dee5ccbd2a97)
