@@ -19,6 +19,7 @@ This is a small web application where the user Registration is demonstrated. Sin
 - PostgreSql 17
 - Spring Validation
 - Thymeleaf
+- Bcrypt
 
 ## Frontend Technologies
 
